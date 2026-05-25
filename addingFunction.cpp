@@ -13,4 +13,9 @@ int main (){
   Alim.id=4637;
   Alim.gpa=3.44;
   cout<<Alim.id<<endl<<Alim.gpa<<endl;
+  student shudip;                       
+Alim.id=4638;                       
+Alim.gpa=3.49;                      
+cout<<Alim.id<<endl<<Alim.gpa<<endl;
+
 }
