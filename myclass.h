@@ -1,15 +1,9 @@
 #ifndef MYCLASS_H
 #define MYCLASS_H
 
-
-class MyClass
-{
-    public:
-        MyClass();
-
-    protected:
-
-    private:
+class MyClass{
+public:
+    MyClass();
 };
 
-#endif // MYCLASS_H
+#endif

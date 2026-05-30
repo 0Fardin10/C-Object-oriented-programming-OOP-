@@ -1,8 +1,8 @@
-#include "myclass.h"
 #include<iostream>
+#include "myclass.h"
+
 using namespace std;
-MyClass::MyClass()
-{
-    count<<"Inside constructor"<<endl;
-    return 0;
+
+MyClass::MyClass(){
+    cout << "Constructor called" << endl;
 }
