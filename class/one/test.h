@@ -6,8 +6,8 @@
 class test
 {
     public:
-        test();
-        ~test();
+        //test();
+        //~test();
         void display();
 
 };
