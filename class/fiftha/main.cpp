@@ -1,11 +1,15 @@
 #include <iostream>
-#include "const.h"
+#include "newdemo.h"
 
 using namespace std;
 
 int main()
 {
-     con ob1;
-     void ob1.display1() const;
-    return 0;
+    const newDemo o1;
+    o1.display1();
+    newDemo o2;
+    o2.display2();
+
+
+        return 0;
 }
