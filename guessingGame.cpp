@@ -4,7 +4,7 @@ using namespace std;
 int main(){
   while(1){
   int picNumber,randomNum;
-  cout<<"Guess a random number between 1 to 5";
+  cout<<"Guess a random number between 1 to 5 : ";
   cin>>picNumber;
     randomNum=1+rand()%5;
     if (picNumber==randomNum) {

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1780461722 source:/home/zabir/codes/cpp/class/fiftha/main.cpp
+	<iostream>
+	"newdemo.h"
+
+1780462184 /home/zabir/codes/cpp/class/fiftha/newdemo.h
+
+1780462184 source:/home/zabir/codes/cpp/class/fiftha/newdemo.cpp
+	"newdemo.h"
+	<iostream>
+

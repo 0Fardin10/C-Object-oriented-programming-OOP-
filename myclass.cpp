@@ -3,8 +3,6 @@
 
 using namespace std;
 
-int main(){
-    MyClass o1;
-    return 0;
+MyClass::MyClass(){
+    cout << "Constructor called" << endl;
 }
-
